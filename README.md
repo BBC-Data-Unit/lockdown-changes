@@ -2,11 +2,20 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/7448/production/_113186792_linesmobility-nc.png)
 
-In July 2020, as the lockdown in the UK was relaxed, we [wrote about the ways that life had changed in the past 3 months](https://www.bbc.co.uk/news/explainers-52229828).
+In July 2020, as the lockdown in the UK was relaxed, we [wrote about the ways that life had changed in the past 3 months](https://www.bbc.co.uk/news/explainers-52229828). Many of the items were taken from previous stories from the data unit, linked to below.
 
 ## Get the data 
 
 * [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
+* Repo: [UK turns to delivery cream teas during lockdown](https://github.com/BBC-Data-Unit/coronavirus-deliveries)
+* Repo: [Coronavirus: How GPs have stopped seeing most patients in person](https://github.com/BBC-Data-Unit/Coronavirus-GPs)
+* [A&E Attendances and Emergency Admissions 2020-21](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2020-21/)
+* [NHS 111 Minimum Data Set 2020-21](https://www.england.nhs.uk/statistics/statistical-work-areas/nhs-111-minimum-data-set/nhs-111-minimum-data-set-2020-21/)
+* ONS: [Furloughing of workers across UK businesses: 23 March 2020 to 5 April 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/furloughingofworkersacrossukbusinesses/23march2020to5april2020)
+* Repo: [Coronavirus delays cleaner air plans in cities](https://github.com/BBC-Data-Unit/Coronavirus-clean-air-zones)
+* DfE: [Attendance in education and early years settings during the coronavirus outbreak: 23 March to 11 June 2020](https://www.gov.uk/government/publications/coronavirus-covid-19-attendance-in-education-and-early-years-settings)
+* ONS: [Coronavirus and the social impacts on Great Britain: 10 July 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/10july2020)
+
 
 ## Quotes and interviews
 
